@@ -1,0 +1,1 @@
+leave,exit,quit,turn off,switch off,end,stop
